@@ -1,0 +1,32 @@
+.App {
+  text-align: center;
+  background: url(https://images7.alphacoders.com/881/thumb-1920-881474.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  
+
+}
+
+#cardy{
+  display: flex;
+  justify-content: space-around;
+  align-content:center;
+  align-items: baseline;
+  height: 535px;
+  margin-top: 3%;
+  color: black;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 30px;
+}
+
+h1 { color: #c5cf2e; font-family: "Great Vibes", cursive; font-size: 800px; line-height: 200px; font-weight: normal; margin-bottom: 0px; margin-top: 40px; text-align: center; text-shadow: 0 3px 3px rgb(13, 201, 214);
+  padding-top: 50px; }
+#cart{
+  box-shadow: 10px 0 10px 0 lightseagreen;
+  background-color: rgba(228, 228, 13, 0.411);
+}
+.list-group-item{background-color: rgba(224, 224, 9, 0.507) !important;}
+
+
